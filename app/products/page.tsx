@@ -315,7 +315,7 @@ export default function Products() {
             </div>
             <div className="col-md-6 mt-4 mt-md-0">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/cust_ord.png?height=400&width=600"
                 alt="Bulk Orders"
                 width={600}
                 height={400}

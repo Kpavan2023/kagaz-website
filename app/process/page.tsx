@@ -324,7 +324,7 @@ export default function Process() {
             </div>
             <div className="col-md-6 mt-4 mt-md-0">
               <Image
-                src="/cust_ord.png?height=400&width=600"
+                src="/Quality_Con.png?height=400&width=600"
                 alt="Quality Control"
                 width={600}
                 height={400}
